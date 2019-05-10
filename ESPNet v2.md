@@ -3,7 +3,7 @@
 ### 一、（Dilated Convolution）空洞卷积、膨胀卷积
 [卷积核膨胀（dilation）解析 - wangyuxi__的博客 - CSDN博客](https://blog.csdn.net/wangyuxi__/article/details/83003357)
 #### 标准的卷积
-![ff62dada.png](https://github.com/zhongjiechen97/CVpaper-notes/tree/master/images/1.png)
+![ff62dada.png](images/1.jpg)
 Standard Convolution with a 3 x 3 kernel (and padding)
 #### 空洞卷积
 ![732eb0b1.png](https://github.com/zhongjiechen97/CVpaper-notes/tree/master/images/2.png)
